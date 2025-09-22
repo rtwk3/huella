@@ -3,9 +3,10 @@ import 'dart:typed_data';
 import 'dart:io' show File;
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:http/http.dart' as http;
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 class ImageUploadService {
-  static const String _apiKey = '9afc0a1d4f5f20ef5d6832bfa4c14930';
+  static const String _apiKey = dotenv.env['IMGBB_API_KEY'] ?? '';
 
   static Future<String?> uploadToImgBB({File? file, Uint8List? bytes}) async {
     try {
