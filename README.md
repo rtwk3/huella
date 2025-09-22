@@ -38,7 +38,23 @@ You can add trip details, upload a cover image, track origin/destination, and vi
 
 ## 📸 Screenshots
 
-> Add your app screenshots here (trip list, create trip, trip detail, etc.)
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+  <img src="assets/screenshots/login.jpg" alt="Login" width="250" style="border-radius: 16px;"/>
+  <img src="assets/screenshots/create_account.jpg" alt="Create Account" width="250" style="border-radius: 16px;"/>
+
+  <img src="assets/screenshots/trips_page.jpg" alt="Trips Page" width="250" style="border-radius: 16px;"/>
+  <img src="assets/screenshots/travellers_page.jpg" alt="Travellers Page" width="250" style="border-radius: 16px;"/>
+
+  <img src="assets/screenshots/trip_detail.jpg" alt="Trip Detail" width="250" style="border-radius: 16px;"/>
+  <img src="assets/screenshots/traveller_detail.jpg" alt="Traveller Detail" width="250" style="border-radius: 16px;"/>
+
+  <img src="assets/screenshots/create_trip.jpg" alt="Create Trip" width="250" style="border-radius: 16px;"/>
+  <img src="assets/screenshots/create_traveller.jpg" alt="Create Traveller" width="250" style="border-radius: 16px;"/>
+
+</div>
+
+
 
 ---
 
