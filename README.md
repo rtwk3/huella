@@ -1,7 +1,12 @@
-# 🚐 Huella - Trip Data Collect
+<p align="center">
+  <img src="assets/logo.png" width="120" height="120" style="border-radius:50%;">
+</p>
+
+<h1 align="center">Huella - Trip Data Collect</h1>
 
 A Flutter application to **create, manage, and share trips** with travellers.  
 You can add trip details, upload a cover image, track origin/destination, and view trip details with travellers list.
+
 
 ---
 
